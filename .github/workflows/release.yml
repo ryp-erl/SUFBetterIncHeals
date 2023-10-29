@@ -54,7 +54,7 @@ jobs:
           file_path: "${{ github.event.repository.name }}-${{ steps.vars.outputs.tag }}.zip"
           game_endpoint: "wow"
           game_versions: "WoW Wrath of the Lich King Classic:3.4.0"
-          project_id: 706550
+          project_id: 929327
           token: "${{ secrets.CF_API_TOKEN }}"
       - name: Rollback Release
         if: steps.upload_zip.outcome == 'failure' || steps.upload_to_cf.outcome == 'failure'
