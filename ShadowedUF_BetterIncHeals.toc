@@ -1,0 +1,11 @@
+## Author: Ryp
+## Interface: 30403
+## Notes: Provides better incoming heals on Shadowed Unit Frames
+## Title: Shadowed UF |cff7fff7fBetter Incoming Heals|r
+## Version: 1.0.0
+
+#@no-lib-strip@
+libs\LibHealComm-4.0\LibHealComm-4.0.xml
+#@end-no-lib-strip@
+
+ShadowedUF_BetterIncHeals.lua
