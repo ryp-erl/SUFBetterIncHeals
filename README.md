@@ -1,6 +1,10 @@
 <img src="https://github.com/ryp-erl/assets/blob/main/ShadowedUF_BetterIncHeals/suf-betterincheals-wotlk.jpg?raw=true" width=100 align="right" />
 
 
+![version](https://img.shields.io/github/v/release/ryp-erl/ShadowedUF_BetterIncHeals)
+[![issues](https://img.shields.io/badge/report-issues-blueviolet)](https://github.com/ryp-erl/ShadowedUF_BetterIncHeals/issues)
+[![curseforge](https://img.shields.io/badge/visit%20on-curseforge-orange)](https://www.curseforge.com/wow/addons/shadowed-unit-frames-better-incoming-heals)
+
 # Shadowed UF - Better Incoming Heals
 
 Provides better incoming heals on Shadowed Unit Frames for Wrath of the Lich King Classic.
